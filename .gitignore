@@ -1,0 +1,7 @@
+*/**/.exercism
+*/**/HINTS.md
+*/**/HELP.md
+*/**/.editorconfig
+*/**/bin
+*/**/obj
+*/.sln
